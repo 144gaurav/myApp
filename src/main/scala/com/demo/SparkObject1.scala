@@ -36,7 +36,7 @@ object SparkObject1 extends App {
   {
     for (x <- df2.get(i))
     {
-      println(x)
+      println("Hello "+x)
     }
   }
 
