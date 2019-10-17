@@ -15,7 +15,7 @@ object SparkObject1 extends App {
     StructField("Order_Id",DataTypes.IntegerType , false),
     StructField("Order_Date",DataTypes.TimestampType,false),
     StructField("Quantity",DataTypes.IntegerType,false),
-    StructField("Stdhhatus",DataTypes.StringType,true),
+    StructField("Status",DataTypes.StringType,true),
     StructField("_corrupt_record",DataTypes.StringType,true)))
 
   val df = spark.read
