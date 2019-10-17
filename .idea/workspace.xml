@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="59f22844-c439-417d-832f-9b4bcb40d356" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/SparkObject1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/SparkObject1.scala" afterDir="false" />
     </list>
+=======
+    <list default="true" id="59f22844-c439-417d-832f-9b4bcb40d356" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
