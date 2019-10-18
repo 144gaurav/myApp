@@ -1,6 +1,6 @@
 package com.demo
 
 object demoClass extends App{
-println ("Objdsvsdvect Added from GIT")
+println ("from jira branch Added from GIT")
 
 }
